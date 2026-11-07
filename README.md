@@ -1,0 +1,1 @@
+# septaria-availability-checker
